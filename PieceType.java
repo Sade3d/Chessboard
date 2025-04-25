@@ -2,13 +2,12 @@ package hackclubchess;
 
 /*
  * Might not be able to use this because Java is not a great language
- * And they shot themselves in the foot with their weird enums
+ * And they shot themselves in the foot with their weird enums*/
 enum PieceType {
     None, 
     WKing, WPawn, WKnight, WBishop, WRook, WQueen,
     BKing, BPawn, BKnight, BBishop, BRook, BQueen
 }
-*/
 
 // Imitating enums. Just constant numbers
 // Shorts are smaller than ints
